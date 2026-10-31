@@ -7,3 +7,5 @@ David Pukha is a design engineer for AI startups. He works on products that chan
 - 📱 co-founded Tunnelvision, an iOS screen time app he built in SwiftUI: 17M impressions, top 5 in Productivity in the Netherlands, exited in 2026
 - 🚀 took 20+ startups from zero to launch across brand, web and product
 - 🎤 SpaceXSI ambassador for the Netherlands and founding ambassador at Mobbin; co-hosted and judged the [first Cursor hackathon in the Netherlands](https://luma.com/cursor-u7zc)
+
+📬 davidpukha@gmail.com · [Book a call](https://cal.com/davidpukha/chat-with-david) · [LinkedIn](https://www.linkedin.com/in/pukhadavid/) · [X](https://x.com/davidpukhaa)
