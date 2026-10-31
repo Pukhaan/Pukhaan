@@ -1,4 +1,4 @@
-David Pukha is a design engineer for AI startups. He wants to work on products that change how people live, and make them impossible not to love, from the first mark to the last line of code. Based in Amsterdam, he is moving from the Netherlands to the US in early 2027, open to San Francisco, New York or anywhere in the US → [pukha.world](https://pukha.world)
+David Pukha is a design engineer for AI startups. He works on products that change how people live, and makes them impossible not to love, from the first mark to the last line of code. Based in Amsterdam, he is moving from the Netherlands to the US in early 2027, open to San Francisco, New York or anywhere in the US → [pukha.world](https://pukha.world)
 
 ## What he's built
 - ⚡ designed and built the product for [Neos](https://pukha.world/work/neos), an AI that runs buildings' energy at the cheapest hours, now on 320+ buildings (raised a £1.4M Series A)
